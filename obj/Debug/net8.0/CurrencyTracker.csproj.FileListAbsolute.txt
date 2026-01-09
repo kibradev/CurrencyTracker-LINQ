@@ -1,0 +1,14 @@
+/Users/emirkibra/Desktop/CurrencyTracker/bin/Debug/net8.0/CurrencyTracker
+/Users/emirkibra/Desktop/CurrencyTracker/bin/Debug/net8.0/CurrencyTracker.deps.json
+/Users/emirkibra/Desktop/CurrencyTracker/bin/Debug/net8.0/CurrencyTracker.runtimeconfig.json
+/Users/emirkibra/Desktop/CurrencyTracker/bin/Debug/net8.0/CurrencyTracker.dll
+/Users/emirkibra/Desktop/CurrencyTracker/bin/Debug/net8.0/CurrencyTracker.pdb
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/CurrencyTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/CurrencyTracker.AssemblyInfoInputs.cache
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/CurrencyTracker.AssemblyInfo.cs
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/CurrencyTracker.csproj.CoreCompileInputs.cache
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/CurrencyTracker.dll
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/refint/CurrencyTracker.dll
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/CurrencyTracker.pdb
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/CurrencyTracker.genruntimeconfig.cache
+/Users/emirkibra/Desktop/CurrencyTracker/obj/Debug/net8.0/ref/CurrencyTracker.dll
